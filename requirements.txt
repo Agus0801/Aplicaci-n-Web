@@ -1,6 +1,6 @@
-datetime 
-numpy
-pandas
 streamlit
-plotly.express
-matplotlib.pyplot
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
